@@ -1,0 +1,880 @@
+http://localhost:8080/AjaxMethod/Save.cspx?table=personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 16:28:21
+insert personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 16:28:21
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin) 
+Fullname-> 李四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 16:28:24
+insert personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 16:28:24
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin) 
+Fullname-> 李四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:40:54
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:40:54
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin) 
+Fullname-> 李四光四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:46:20
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:46:20
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:47:15
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:47:15
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:47:15
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:47:15
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:47:15
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus,JoinDate) 
+PersonalID-> 34
+PoliticsStatus-> 中共党员
+JoinDate-> 2017/12/12 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:47:15
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID,Addr,Tel) 
+PersonalID-> 34
+Addr-> 临时
+Tel-> 88774411
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:58:47
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:58:47
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:59:14
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:59:14
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:59:59
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 20:59:59
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:03:23
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:03:23
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:04:38
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:04:38
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四光
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+---------------------------------------
+Record On: 2017-12-26 21:07:20
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:08:20
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:08:20
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:10:56
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:10:56
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace,UsedName) 
+Fullname-> 李四四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+UsedName-> 大在
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:11:00
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:11:00
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus,JoinDate) 
+PersonalID-> 41
+PoliticsStatus-> 民主党派
+JoinDate-> 2017/12/5 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:11:01
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:11:01
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID,Addr,Tel) 
+PersonalID-> 41
+Addr-> 在在
+Tel-> 55558888
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:12:39
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:12:39
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 张三
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:12:40
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:12:40
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:12:40
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus,JoinDate) 
+PersonalID-> 42
+PoliticsStatus-> 民主党派
+JoinDate-> 2017/11/26 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:12:40
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID) 
+PersonalID-> 42
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:13:30
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:13:30
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 张三
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:13:31
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:13:31
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus,JoinDate) 
+PersonalID-> 43
+PoliticsStatus-> 民主党派
+JoinDate-> 2017/11/26 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:13:31
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:13:31
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID) 
+PersonalID-> 43
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:15:39
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:15:39
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四二
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:15:39
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:15:39
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID) 
+PersonalID-> 44
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:15:39
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:15:39
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID) 
+PersonalID-> 44
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:21
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:21
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity) 
+Fullname-> 李四三
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:37
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:37
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四三
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市义乌市
+NativePlace-> 浙江省金华市义乌市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:37
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:37
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID) 
+PersonalID-> 46
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:37
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:16:37
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID) 
+PersonalID-> 46
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:17:54
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:17:54
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四在
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 北京市东城区
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:17:54
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:17:54
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus) 
+PersonalID-> 47
+PoliticsStatus-> 民主党派
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:17:54
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-26 21:17:54
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID) 
+PersonalID-> 47
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:20:24
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:20:24
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+IsFullTime-> 1
+School-> 磊在
+Department-> 在在
+Major-> 在在
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 在在
+Degree-> 地地
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:21:25
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:21:25
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+IsFullTime-> 1
+School-> 磊在
+Department-> 在在
+Major-> 在在
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 在在
+Degree-> 地地
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:25:36
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:25:36
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+IsFullTime-> 1
+School-> 地地
+Department-> 在在
+Major-> 林要
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 在在
+Degree-> 有有
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:27:05
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=1
+---------------------------------------
+Record On: 2017-12-26 21:27:05
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 1
+IsFullTime-> 1
+School-> 在在
+Department-> 有朋
+Major-> 要要
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 在在
+Degree-> 要要
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=3
+---------------------------------------
+Record On: 2017-12-26 22:03:11
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=3
+---------------------------------------
+Record On: 2017-12-26 22:03:11
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 3
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 学历
+Degree-> 学位
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=3
+---------------------------------------
+Record On: 2017-12-26 22:03:44
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=3
+---------------------------------------
+Record On: 2017-12-26 22:03:44
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 3
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 学历
+Degree-> 学位
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:27
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:27
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:29
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:29
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+EndDate-> 2017/12/19 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:37
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:37
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+EndDate-> 2017/12/19 0:00:00
+Status-> DBNull.Value
+EduBackground-> 大
+Degree-> 三
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:57
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:07:57
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+EndDate-> 2017/12/19 0:00:00
+Status-> DBNull.Value
+EduBackground-> 大
+Degree-> 三
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:10:54
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:10:54
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 测试1
+Department-> 测试11
+Major-> 测试12
+StartDate-> 2017/11/28 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 测试14
+Degree-> 测试15
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:11:17
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:11:17
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 测试12
+Department-> 测试11
+Major-> 测试12
+StartDate-> 2017/11/28 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 测试14
+Degree-> 测试15
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:13:33
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:13:33
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 测试124
+Department-> 测试11
+Major-> 测试12
+StartDate-> 2017/11/28 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> 测试14
+Degree-> 测试15
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:16:34
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:16:34
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 测试2
+Department-> $TablenewKey
+Major-> $TablenewKey
+StartDate-> 2017/12/19 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> $TablenewKey
+Degree-> $TablenewKey
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:17:08
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:17:08
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 测试2
+Department-> $TablenewKey
+Major-> $TablenewKey
+StartDate-> 2017/12/19 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> $TablenewKey
+Degree-> $TablenewKey
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:17:44
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:17:44
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+IsFullTime-> 1
+School-> 测试2
+Department-> $TablenewKey
+Major-> $TablenewKey
+StartDate-> 2017/12/19 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> $TablenewKey
+Degree-> $TablenewKey
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:23:07
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:23:07
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 4
+School-> 测试5
+Department-> $Tablekey
+Major-> $Tablekey
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/26 0:00:00
+Status-> DBNull.Value
+EduBackground-> $Tablekey
+Degree-> $Tablekey
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:27:00
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-26 22:27:00
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 4
+WorkUnit-> 单位1
+StartDate-> 2017/11/26 0:00:00
+EndDate-> 2017/12/6 0:00:00
+Duty-> 局长
+Degree-> 正局级

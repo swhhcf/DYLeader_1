@@ -1,0 +1,7 @@
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\bin\Debug\SEnumProc.XML
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\bin\Debug\SEnumProc.dll
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\bin\Debug\SEnumProc.pdb
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\obj\Debug\SEnum.csproj.CoreCompileInputs.cache
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\obj\Debug\SEnumProc.dll
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\obj\Debug\SEnumProc.pdb
+E:\WorkDoc\lgh_leader\DYLeader\SEnum\obj\Debug\SEnum.csprojResolveAssemblyReference.cache

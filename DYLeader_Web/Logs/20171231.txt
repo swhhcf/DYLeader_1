@@ -1,0 +1,447 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 08:19:43
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 08:19:43
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> aa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 08:25:10
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 08:25:10
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> aa
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> aa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 09:03:24
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 09:03:24
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> bb
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> bb
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:38:35
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:38:35
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> aaa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:39:40
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:39:40
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 9
+DividedContent-> aaaaa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:40:00
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:40:00
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 9
+DividedContent-> aaaaa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:40:09
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 12:40:09
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 9
+DividedContent-> aaaaa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:10:23
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:10:23
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 88
+Name-> aaaaa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aaaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:13:15
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:13:15
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 88
+Name-> aaaaa
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> aaaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:19:28
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:19:28
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:19:28
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> bbbbb
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> aaaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:19:28
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> bbbbb
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> aaaaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:20:23
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:20:23
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 14
+Name-> cccccccccccc
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> 2017-12-12
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:21:12
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:21:12
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 14
+Name-> dddddddddd
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> ddddddd
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:21:58
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:21:58
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 88
+Name-> ddddddd
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> ddddddd
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:24:09
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:24:09
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:24:09
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> ddddddd
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> dddddd
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:24:09
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> ddddddd
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> dddddd
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:24:46
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:24:46
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 15
+Name-> bbbbb
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> bbbbbb
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:25:26
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 13:25:26
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 15
+Name-> ccccc
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> cccc
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 14:48:45
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 14:48:45
+
+MsSql.DyLeader.SQL: 
+insert into KeyProjectAndWork(PersonalID,Name,StartDate,EndDate,Effect) 
+PersonalID-> 88
+Name-> qqqqqqq
+StartDate-> 2017/12/10 0:00:00
+EndDate-> 2017/12/10 0:00:00
+Effect-> qqqq
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 15:41:16
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 15:41:16
+
+MsSql.DyLeader.SQL: 
+Update KeyProjectAndWork set PersonalID=PersonalID,Name=Name,StartDate=StartDate,EndDate=EndDate,Effect=Effect where id='3'
+PersonalID-> 12
+Name-> aaa
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Effect-> aaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 20:57:12
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 20:57:12
+
+MsSql.DyLeader.SQL: 
+Update KeyProjectAndWork set PersonalID=PersonalID,Name=Name,StartDate=StartDate,EndDate=EndDate,Effect=Effect where id='1'
+PersonalID-> 88
+Name-> aaaaa
+StartDate-> 2017/12/20 0:00:00
+EndDate-> 2017/12/20 0:00:00
+Effect-> aaaaa2
+http://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 20:57:18
+insert KeyProjectAndWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=KeyProjectAndWork
+Referer:http://localhost:60872/Personal/divisionwork.html
+---------------------------------------
+Record On: 2017-12-31 20:57:18
+
+MsSql.DyLeader.SQL: 
+Update KeyProjectAndWork set PersonalID=PersonalID where id='1'
+PersonalID-> 88
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:04:23
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:04:23
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='12'
+Fullname-> 钱六
+IdCard-> 330724197304291124
+Gender-> 0
+Birthday-> 1973/4/29 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:04:54
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:04:54
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='12'
+Fullname-> 钱六
+IdCard-> 330724197304291124
+Gender-> 0
+Birthday-> 1973/4/29 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:07:54
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:07:54
+
+MsSql.DyLeader.SQL: 
+Update PlaneAppointRemove set PersonalID=PersonalID,Appoint=Appoint,Remove=Remove,Memo=Memo,ReportingDate=ReportingDate,ExaminationAuthority=ExaminationAuthority,ExaminationDate=ExaminationDate,AppointmentOpinion=AppointmentOpinion,FillFormName=FillFormName,ReportingUnit=ReportingUnit where id='8'
+PersonalID-> 12
+Appoint-> aaz
+Remove-> aaa
+Memo-> aaa
+ReportingDate-> 1900/1/1 0:00:00
+ExaminationAuthority-> a
+ExaminationDate-> 2017/12/4 0:00:00
+AppointmentOpinion-> aa
+FillFormName-> a
+ReportingUnit-> aaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:08:36
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:08:36
+
+MsSql.DyLeader.SQL: 
+Update PlaneAppointRemove set PersonalID=PersonalID,Appoint=Appoint,Remove=Remove,Memo=Memo,ReportingDate=ReportingDate,ExaminationAuthority=ExaminationAuthority,ExaminationDate=ExaminationDate,AppointmentOpinion=AppointmentOpinion,FillFormName=FillFormName,ReportingUnit=ReportingUnit where id='8'
+PersonalID-> 12
+Appoint-> aa1
+Remove-> aaa
+Memo-> aaa
+ReportingDate-> 1900/1/1 0:00:00
+ExaminationAuthority-> a
+ExaminationDate-> 2017/12/4 0:00:00
+AppointmentOpinion-> aa
+FillFormName-> a
+ReportingUnit-> aaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:08:48
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-31 21:08:48
+
+MsSql.DyLeader.SQL: 
+Update PlaneAppointRemove set PersonalID=PersonalID,Appoint=Appoint,Remove=Remove,Memo=Memo,ReportingDate=ReportingDate,ExaminationAuthority=ExaminationAuthority,ExaminationDate=ExaminationDate,AppointmentOpinion=AppointmentOpinion,FillFormName=FillFormName,ReportingUnit=ReportingUnit where id='8'
+PersonalID-> 12
+Appoint-> aa2
+Remove-> aaa
+Memo-> aaa
+ReportingDate-> 1900/1/1 0:00:00
+ExaminationAuthority-> a
+ExaminationDate-> 2017/12/4 0:00:00
+AppointmentOpinion-> aa
+FillFormName-> a
+ReportingUnit-> aaa

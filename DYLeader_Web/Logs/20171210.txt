@@ -1,0 +1,330 @@
+http://localhost:60872/AjaxMethod/Insert.cspx?Name=%E4%B8%9C%E9%98%B3%E5%B8%82%E5%A7%94
+Referer:http://localhost:60872/admin/department.aspx
+---------------------------------------
+Record On: 2017-12-10 10:53:32
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx?Name=%E4%B8%9C%E9%98%B3%E5%B8%82%E5%A7%94
+Referer:http://localhost:60872/admin/department.aspx
+---------------------------------------
+Record On: 2017-12-10 10:54:10
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx
+Referer:http://localhost:60872/admin/department.aspx
+---------------------------------------
+Record On: 2017-12-10 10:56:21
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx?table=SysDepartment
+Referer:http://localhost:60872/admin/department.aspx
+---------------------------------------
+Record On: 2017-12-10 10:57:55
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx?table=SysDepartment
+Referer:http://localhost:60872/admin/department.aspx
+---------------------------------------
+Record On: 2017-12-10 10:58:28
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx?table=SysDepartment
+Referer:http://localhost:60872/Admin/Department.aspx
+---------------------------------------
+Record On: 2017-12-10 11:01:29
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx?table=SysDepartment
+Referer:http://localhost:60872/Admin/Department.aspx
+---------------------------------------
+Record On: 2017-12-10 11:01:35
+
+MsSql.DyLeader.SQL: 
+insert into SysDepartment(Name) 
+Name-> 东阳市委办
+http://localhost:60872/AjaxMethod/Insert.cspx?table=SysDutyDegree
+Referer:http://localhost:60872/Admin/Department.aspx
+---------------------------------------
+Record On: 2017-12-10 11:03:33
+insert departmenthttp://localhost:60872/AjaxMethod/Insert.cspx?table=SysDutyDegree
+Referer:http://localhost:60872/Admin/Department.aspx
+---------------------------------------
+Record On: 2017-12-10 11:03:33
+
+MsSql.DyLeader.SQL: 
+insert into SysDutyDegree(Name) 
+Name-> 正局级
+http://localhost:60872/AjaxMethod/Save.cspx
+Referer:http://localhost:60872/admin/right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:05:50
+insert departmenthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:17:10
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:17:10
+
+MsSql.DyLeader.SQL: 
+insert into SysRight(Code,Name,IsUsing) 
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/admin/right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:38:15
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/admin/right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:38:15
+
+MsSql.DyLeader.SQL: 
+insert into SysRight(Code,Name,IsUsing) 
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/admin/right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:38:44
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/admin/right.aspx
+---------------------------------------
+Record On: 2017-12-10 14:38:44
+
+MsSql.DyLeader.SQL: 
+insert into SysRight(Code,Name,IsUsing) 
+Code-> input
+Name-> 录入管理员
+IsUsing-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:01:34
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:01:34
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 0
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:03:59
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:03:59
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='2'
+Code-> input
+Name-> 录入管理员
+IsUsing-> 0
+IsGlobal-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:34:04
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:34:04
+
+MsSql.DyLeader.SQL: 
+insert into SysRight(Code,Name,IsUsing,IsGlobal) 
+Code-> query
+Name-> 查询管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:34:34
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:34:34
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='2'
+Code-> input
+Name-> 录入管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:34:38
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:34:38
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='2'
+Code-> input
+Name-> 录入管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:40:32
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:40:32
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='3'
+Code-> query
+Name-> 查询管理员
+IsUsing-> 0
+IsGlobal-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:42:03
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 15:42:03
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:47
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:47
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 0
+IsGlobal-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:50
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:50
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:53
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:53
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='2'
+Code-> input
+Name-> 录入管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:56
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx?Code=&Name=
+---------------------------------------
+Record On: 2017-12-10 15:44:56
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='3'
+Code-> query
+Name-> 查询管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:06:52
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:06:52
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+IsGlobal-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:07:01
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:07:01
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:16:13
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:16:13
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='1'
+Code-> admin
+Name-> 超级管理员
+IsUsing-> 1
+IsGlobal-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:16:17
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:16:17
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='2'
+Code-> input
+Name-> 录入管理员
+IsUsing-> 0
+IsGlobal-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:16:20
+insert SysRighthttp://localhost:60872/AjaxMethod/Save.cspx?table=SysRight
+Referer:http://localhost:60872/Admin/Right.aspx
+---------------------------------------
+Record On: 2017-12-10 16:16:20
+
+MsSql.DyLeader.SQL: 
+Update SysRight set Code=Code,Name=Name,IsUsing=IsUsing,IsGlobal=IsGlobal where id='2'
+Code-> input
+Name-> 录入管理员
+IsUsing-> 1
+IsGlobal-> 1

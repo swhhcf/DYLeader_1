@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ABEB627B-E1D0-4063-89BD-39462D91AFEF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DyLeader</RootNamespace>
+    <AssemblyName>DyLeaderAjax</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CYQ.Data">
+      <HintPath>..\_Reference\CYQ.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\_Reference\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MyMVC">
+      <HintPath>..\_Reference\MyMVC.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>..\_Reference\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>..\_Reference\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>..\_Reference\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>..\_Reference\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="Xceed.Words.NET">
+      <HintPath>..\_Reference\Xceed.Words.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AjaxCommon.cs" />
+    <Compile Include="AjaxDept.cs" />
+    <Compile Include="AjaxGetListForPersonal.cs" />
+    <Compile Include="AjaxMenu.cs" />
+    <Compile Include="AjaxUser.cs" />
+    <Compile Include="ImExport\Export.cs" />
+    <Compile Include="ImExport\Import.cs" />
+    <Compile Include="ImExport\Test.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UploadPic.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SConstString\SString.csproj">
+      <Project>{f55230a4-58a7-4f49-9623-4963d7f20cbe}</Project>
+      <Name>SString</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SData\SData.csproj">
+      <Project>{8f248643-0760-4fae-939a-186a7c8be2c1}</Project>
+      <Name>SData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SEnum\SEnum.csproj">
+      <Project>{b231cc88-2220-4190-9b8b-9ecf36061738}</Project>
+      <Name>SEnum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SExcel\SExcel.csproj">
+      <Project>{6c1ad3ea-23ab-4bef-9c12-7c2009e2213d}</Project>
+      <Name>SExcel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SStringExt\SExtension.csproj">
+      <Project>{14cc1517-20ca-417b-ba33-c0907e321b4b}</Project>
+      <Name>SExtension</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SWord\SWord.csproj">
+      <Project>{79de3445-0864-4094-889d-4bc10f6c596b}</Project>
+      <Name>SWord</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

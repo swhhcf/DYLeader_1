@@ -1,0 +1,55 @@
+﻿.nameInput {
+    font-size: 14px !important;
+    border: none !important;
+}
+
+.tipShadow {
+    -moz-box-shadow: 3px 3px 4px #444;
+    -webkit-box-shadow: 3px 3px 4px #444;
+    box-shadow: 3px 3px 4px #444; /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')"; /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength = 4, Direction = 135, Color = '#bbbbbb');
+    width: 100px;
+    max-height: 100px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    table-layout: fixed;
+    z-index: 9500;
+    cursor: default;
+}
+
+.tipSelected, .tipUnSelected {
+    height: 30px;
+}
+
+    .tipSelected td {
+        font-size: 14px !important;
+        color: white !important;
+        background-color: #007fff !important;
+        border: none;
+        height: 30px !important;
+        cursor: pointer;
+    }
+
+    .tipUnSelected td {
+        font-size: 14px !important;
+        color: black !important;
+        background-color: #FFF !important;
+        height: 30px !important;
+        border: none;
+    }
+
+    .tipSelected :hover tr, .tipSelected tr:hover td, .tipUnSelected :hover tr, .tipUnSelected tr:hover td {
+        font-size: 14px !important;
+        color: white !important;
+        background-color: #3398fe !important;
+    }
+
+.x-control {
+    font-size: 12pt;
+    cursor: pointer;
+}
+
+    .x-control:hover {
+        background-color: #e8e8e8;
+    }

@@ -1,0 +1,19 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=TrainingLearning
+Referer:http://localhost:60872/Personal/TrainLearn.html?personalId=undefined&personalIdCard=330724197001011235
+---------------------------------------
+Record On: 2018-03-19 18:11:50
+insert TrainingLearninghttp://localhost:60872/AjaxMethod/Save.cspx?table=TrainingLearning
+Referer:http://localhost:60872/Personal/TrainLearn.html?personalId=undefined&personalIdCard=330724197001011235
+---------------------------------------
+Record On: 2018-03-19 18:14:51
+insert TrainingLearninghttp://localhost:60872/AjaxMethod/Save.cspx?table=TrainingLearning
+Referer:http://localhost:60872/Personal/TrainLearn.html?personalId=undefined&personalIdCard=330724197001011235
+---------------------------------------
+Record On: 2018-03-19 18:14:51
+
+MsSql.DyLeader.SQL: 
+Update TrainingLearning set TrainingClass=TrainingClass,StartDate=StartDate,PersonalIdCard=PersonalIdCard,ClassHour=ClassHour where id='282'
+TrainingClass-> ¸É²¿ÌáÉý
+StartDate-> 2012/1/1 0:00:00
+PersonalIdCard-> 330724197001011235
+ClassHour-> 10

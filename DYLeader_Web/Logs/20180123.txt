@@ -1,0 +1,165 @@
+http://localhost:8080/AjaxMethod/Save.cspx
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:25:28
+insert http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:25:50
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:25:51
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,SectionName,DeptID,PersonalIdCard) 
+StartDate-> 2008/9/1 0:00:00
+SectionName-> 班子成员
+DeptID-> 11003
+PersonalIdCard-> 330724197001011235
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:27:41
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:27:41
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,SectionName,DeptID,PersonalIdCard) 
+StartDate-> 1997/9/1 0:00:00
+SectionName-> 班子成员
+DeptID-> 11003
+PersonalIdCard-> 330724197001011235
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:34:24
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:34:24
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,SectionName,DeptID,PersonalIdCard) 
+StartDate-> 2018/9/1 0:00:00
+SectionName-> 班子成员
+DeptID-> 11003
+PersonalIdCard-> 330724197001011235
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:37:35
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 20:37:35
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,SectionName,DeptID,PersonalIdCard) 
+StartDate-> 2018/10/1 0:00:00
+SectionName-> 班子成员
+DeptID-> 11003
+PersonalIdCard-> 330724197001011235
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 21:43:15
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 21:43:15
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,SectionName,DeptID,PersonalIdCard) 
+StartDate-> 2018/10/1 0:00:00
+SectionName-> 办公室
+DeptID-> 1003
+PersonalIdCard-> 330724199706055465
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 22:39:21
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 22:39:21
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(WorkUnit,StartDate,Duty,Degree,SectionName,DeptID,PersonalIdCard) 
+WorkUnit-> 市体育局
+StartDate-> 2018/9/1 0:00:00
+Duty-> 办公室主任
+Degree-> 副科
+SectionName-> 办公室
+DeptID-> 41012
+PersonalIdCard-> 33072419970716564X
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 22:43:15
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 22:43:15
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(WorkUnit,StartDate,Duty,Degree,SectionName,DeptID,PersonalIdCard) 
+WorkUnit-> 中国人民解放军东阳市人民武装部
+StartDate-> 2018/9/2 0:00:00
+Duty-> 主任
+Degree-> 副科
+SectionName-> 办公室
+DeptID-> 11003
+PersonalIdCard-> 33072419970716564X
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 23:00:49
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 23:00:49
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(WorkUnit,StartDate,Duty,Degree,SectionName,DeptID,PersonalIdCard) 
+WorkUnit-> 义乌工商局
+StartDate-> 2010/9/9 0:00:00
+Duty-> 办公室主任
+Degree-> 副科
+SectionName-> 办公室
+DeptID-> -1
+PersonalIdCard-> 330724199706055465
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 23:01:32
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 23:01:32
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(WorkUnit,StartDate,Duty,Degree,SectionName,DeptID,PersonalIdCard) 
+WorkUnit-> 义乌工商局
+StartDate-> 2018/9/9 0:00:00
+Duty-> 办公室主任
+Degree-> 副科
+SectionName-> 办公室
+DeptID-> -1
+PersonalIdCard-> 330724199706055465
+http://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 23:04:16
+insert WorkExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:8080/personal/
+---------------------------------------
+Record On: 2018-01-23 23:04:16
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,DeptID,PersonalIdCard) 
+StartDate-> 2019/9/8 0:00:00
+DeptID-> -1
+PersonalIdCard-> 330724199707162027

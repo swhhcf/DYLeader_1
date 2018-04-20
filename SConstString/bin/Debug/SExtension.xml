@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SExtension</name>
+    </assembly>
+    <members>
+        <member name="M:Btc.NewCommon.FieldExt.ToCase(System.Object,System.Object[])">
+            <summary>
+            把字段转成Case when
+            </summary>
+            <param name="field"></param>
+            <param name="valueAndTexts"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToAsFullName(System.Object,System.Boolean)">
+            <summary>
+            生成字段全名（table.field或tableField形式)
+            </summary>
+            <param name="field">字段枚举名</param>
+            <param name="isDotName">是否为table.field形式，默认值为true，为false时返回值为tableField形式</param>
+            <returns>字段全名</returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToAggregation(System.Enum,System.Enum)">
+            <summary>
+            把字段转为聚合函数字符串
+            </summary>
+            <param name="field">字段名</param>
+            <param name="aggregation">聚合函数名</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToInWhere(System.Object,System.String,System.Boolean)">
+            <summary>
+            把字段和值列表转为查询条件的in
+            </summary>
+            <param name="field">字段</param>
+            <param name="value">值列表，用“,”隔开</param>
+            <param name="isAlowNull"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToNotInWhere(System.Object,System.String,System.Boolean)">
+            <summary>
+            把字段和值列表转为查询条件的not in
+            </summary>
+            <param name="field">字段</param>
+            <param name="value">值列表，用“,”隔开</param>
+            <param name="isAlowNull"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToInList(System.String)">
+            <summary>
+            把用","隔开的字符串各自加上单引号
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToWhere(System.Object,System.Object,System.Boolean)">
+            <summary>
+            转换为形如 id=1 的条件字符串
+            </summary>
+            <param name="field">字段名</param>
+            <param name="value">值</param>
+            <param name="isAlowNull">值为空时，是否转为"1=1", 否则转为"1=0"</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToWhere(System.Object[],System.Boolean)">
+            <summary>
+            把字段与相应值转为查询条件，默认相应值可以为空。如果不允许为空，则返回"1=0"
+            </summary>
+            <param name="fieldValues">条件字段与相应值，成对出现</param>
+            <param name="isAlowNull">是否不可以存在空值，默认可以有空</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToWhere(System.String[],System.Boolean)">
+            <summary>
+            把字段与相应值转为查询条件，默认相应值可以为空。如果不允许为空，则返回"1=0"
+            </summary>
+            <param name="fieldValues">条件字段与相应值，成对出现</param>
+            <param name="isAlowNull">是否不可以存在空值，默认可以有空</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToWhere(System.Object,System.Object,System.Object,System.Boolean)">
+            <summary>
+            转换为条件字符串
+            </summary>
+            <param name="field">字段名</param>
+            <param name="compare">比较字符串</param>
+            <param name="value">值</param>
+            <param name="isAlowNull">值为空时，是否转为"1=0", 默认转为"1=1"</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToLikeWhere(System.Object,System.Object)">
+            <summary>
+            转换为like条件字符串
+            </summary>
+            <param name="field">字段名</param>
+            <param name="value">值</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToLikeWhere(System.Object,System.String[])">
+            <summary>
+            转换为like条件字符串
+            </summary>
+            <param name="field">字段名</param>
+            <param name="values">值数组</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.FieldExt.ToLikeWheres(System.Object,System.String,System.Boolean)">
+            <summary>
+            把值列表（","隔开）转为用 or 联接的 like 条件,如 (field like '%val1%' or field like '%val2%')
+            </summary>
+            <param name="field"></param>
+            <param name="valueList"></param>
+            <param name="isHasComma">是否加上逗号，如: field like '%,value,%'</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.ToFieldValueCollection(System.Collections.Specialized.NameValueCollection,System.String)">
+            <summary>
+            把前台Form提交的数据根据前缀转为键值对集合, 不包括tableName与id字段
+            </summary>
+            <param name="form">前台Form提交的数据</param>
+            <param name="prefix">前台提交的key的前缀</param>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.RemoveNull(System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            移除空值的键值对
+            </summary>
+            <param name="form"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.RemoveKey(System.Collections.Specialized.NameValueCollection,System.String[])">
+            <summary>
+            移除指定键值对
+            </summary>
+            <param name="form"></param>
+            <param name="removeKeys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.Split(System.Collections.Specialized.NameValueCollection,System.Char)">
+            <summary>
+            分割为多个
+            </summary>
+            <param name="collection"></param>
+            <param name="seperator"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.ToValues(System.Collections.Specialized.NameValueCollection,System.String)">
+            <summary>
+            把前台Form提交的数据转为值数组
+            </summary>
+            <param name="form">前台Form提交的数据</param>
+            <param name="fixPre">前台提交的key的前缀</param>
+            <returns>字段名与值数组</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.ToFields(System.Collections.Specialized.NameValueCollection,System.Int32)">
+            <summary>
+            把前台Form提交的数据转为字段名数组
+            </summary>
+            <param name="form">前台Form提交的数据</param>
+            <param name="startIndex">起始索引号</param>
+            <returns>字段名与值数组</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.ToWhere(System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            把前台Form提交的数据转为查询条件(like)，排除tableName,page,pagesize,changepage
+            </summary>
+            <param name="form"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.ToWhere(System.Collections.Specialized.NameValueCollection,System.String,System.String[])">
+            <summary>
+            把前台Form提交的数据转为查询条件(like)，排除tableName,page,pagesize,changepage
+            </summary>
+            <param name="form"></param>
+            <param name="prefix"></param>
+            <param name="keys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SForm.ToWhere(System.Collections.Specialized.NameValueCollection,System.Int32@,System.Int32@,System.String@)">
+            <summary>
+            把前端Form提交的数据转为查询条件(like)，排除tableName,page,pagesize,changepage
+            如果key为sort.name 和 sort.order，则为排序依据
+            </summary>
+            <param name="form"></param>
+            <param name="pageIndex"></param>
+            <param name="pageSize"></param>
+            <param name="sort">排序条件</param>
+            <returns></returns>
+        </member>
+        <member name="T:Btc.NewCommon.SStringExtension">
+            <summary>
+            方法扩展
+            </summary>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToLower(System.Object)">
+            <summary>
+            转为小写字符串
+            </summary>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.RemoveNumber(System.String)">
+            <summary>
+            移除数字
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.BSubstring(System.String,System.Int32)">
+            <summary>
+            按字节数取左子字符串
+            </summary>
+            <param name="s"></param>
+            <param name="length">长度</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.Format(System.String,System.Object[])">
+            <summary>
+            替换字符串中的{0},{1}为相应的参数值
+            </summary>
+            <param name="s"></param>
+            <param name="args">参数</param>
+            <returns>字符串</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.IsNotNullEmpty(System.String)">
+            <summary>
+            判断是否为非空字符串
+            </summary>
+            <param name="s"></param>
+            <returns>bool</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.DecodeUTF8(System.String)">
+            <summary>
+            用UTF-8编码对字符串进行解码
+            </summary>
+            <param name="s"></param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.DecodeURI(System.String)">
+            <summary>
+            对字符串进行Url解码
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.EncodeURI(System.String)">
+            <summary>
+            对字符串进行Url编码
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.EncodeUTF8(System.String)">
+            <summary>
+            用UTF-8编码对字符串进行解码
+            </summary>
+            <param name="s"></param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.IndexOf(System.Array,System.Object)">
+            <summary>
+            在数组中查找给定值的索引号
+            </summary>
+            <param name="arr"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.Add``1(System.Collections.Generic.List{``0},``0,System.Boolean)">
+            <summary>
+            为List添加元素。如果isDistinct为true时，不添加已有元素
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="arr"></param>
+            <param name="value"></param>
+            <param name="isDistinct"></param>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToFixLongString(System.Int32,System.Int32,System.String)">
+            <summary>
+            把整数转为固定长度的字符串，如1转为0001
+            </summary>
+            <param name="i"></param>
+            <param name="length"></param>
+            <param name="prefix"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.IsNullOrEmpty(System.String)">
+            <summary>
+            判断是否为空或Null字符串
+            </summary>
+            <param name="s"></param>
+            <returns>bool</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.IsNullOrEmpty(System.Object)">
+            <summary>
+            判断是否为空或Null
+            </summary>
+            <param name="s"></param>
+            <returns>bool</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.Join(System.Object[],System.String)">
+            <summary>
+            用指定分隔符把字符串数组联结为字符串
+            </summary>
+            <param name="s"></param>
+            <param name="seperator">分隔符</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.Join(System.String[],System.String)">
+            <summary>
+            用指定分隔符把字符串数组联结为字符串
+            </summary>
+            <param name="s"></param>
+            <param name="seperator">分隔符</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.Left(System.String,System.Int32)">
+            <summary>
+            从左侧取子字符串
+            </summary>
+            <param name="s"></param>
+            <param name="length">长度</param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.LowerFirst(System.String)">
+            <summary>
+            首字母小写
+            </summary>
+            <param name="s"></param>
+            <returns>字符串</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.Right(System.String,System.Int32)">
+            <summary>
+            从右侧取子字符串
+            </summary>
+            <param name="s"></param>
+            <param name="length">长度</param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToInt(System.Object)">
+            <summary>
+            转化为32位整数，非数字型的返回0
+            </summary>
+            <param name="s"></param>
+            <returns>int</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToInt(System.Boolean)">
+            <summary>
+            转化为32位整数，非数字型的返回0
+            </summary>
+            <param name="s"></param>
+            <returns>int</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToJson(System.String[],System.String)">
+            <summary>
+            把字符串数组转换为Json格式的字符串
+            </summary>
+            <param name="s"></param>
+            <param name="fieldName">字符串对应的属性或字段名，默认为id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToJson(System.Int32[],System.String)">
+            <summary>
+            把整数数组转换为Json格式的字符串
+            </summary>
+            <param name="s"></param>
+            <param name="fieldName">字符串对应的属性或字段名，默认为id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToJson(System.Decimal[],System.String)">
+            <summary>
+            把小数数组转换为Json格式的字符串
+            </summary>
+            <param name="s"></param>
+            <param name="fieldName">字符串对应的属性或字段名，默认为id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToLong(System.Object)">
+            <summary>
+            转化为长整型，非数字型的返回0
+            </summary>
+            <param name="s"></param>
+            <returns>int</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.ToStrings(System.Enum[])">
+            <summary>
+            把枚举Enum数组转换为字符串数组
+            </summary>
+            <param name="fields">枚举Enum数组</param>
+            <returns>字符串数组</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.UpperFirst(System.String)">
+            <summary>
+            首字母大写
+            </summary>
+            <param name="s"></param>
+            <returns>字符串</returns>
+        </member>
+        <member name="M:Btc.NewCommon.SStringExtension.IsInt(System.String)">
+            <summary>
+            判断是否为整数
+            </summary>
+            <param name="s"></param>
+            <returns>bool</returns>
+        </member>
+    </members>
+</doc>

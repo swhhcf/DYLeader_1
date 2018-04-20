@@ -1,0 +1,330 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/Personal/Inspection.html
+---------------------------------------
+Record On: 2018-01-07 08:12:39
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/Personal/Inspection.html
+---------------------------------------
+Record On: 2018-01-07 08:12:39
+
+MsSql.DyLeader.SQL: 
+Update ViolatingLaw set IdCard=IdCard,Date=Date,Place=Place,Content=Content where id='as'
+IdCard-> 88
+Date-> DBNull.Value
+Place-> as
+Content-> as
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:27:54
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:27:54
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 330724197304291124
+Date-> 2018/1/4 0:00:00
+Place-> gkjghkgjhgkhg
+Content-> hjjghkhkgkgj
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:28:25
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:28:25
+
+MsSql.DyLeader.SQL: 
+Update ViolatingLaw set IdCard=IdCard,Date=Date,Place=Place,Content=Content where id='12'
+IdCard-> 330724197304291124
+Date-> 2018/1/4 0:00:00
+Place-> gkjghkgjhgkhg
+Content-> sdfdf
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/Personal/Inspection.html
+---------------------------------------
+Record On: 2018-01-07 09:39:55
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/Personal/Inspection.html
+---------------------------------------
+Record On: 2018-01-07 09:39:55
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 330724197304291124
+Date-> 2018/1/4 0:00:00
+Place-> gkjghkgjhgkhg
+Content-> sd
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:43:00
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:43:00
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard) 
+IdCard-> 88
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:43:38
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:43:38
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 330724197304291124
+Date-> 2018/1/4 0:00:00
+Place-> gkjghkgjhgkhg
+Content-> sdf
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:49:45
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:49:45
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:49:45
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> xxxxx
+StartDate-> 2010/12/5 0:00:00
+EndDate-> 2018/1/3 0:00:00
+Effect-> qwwq
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:49:45
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(PersonalID,DividedContent,StartDate,EndDate,Effect) 
+PersonalID-> 88
+DividedContent-> xxxxx
+StartDate-> 2010/12/5 0:00:00
+EndDate-> 2018/1/3 0:00:00
+Effect-> qwwq
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:50:56
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:50:56
+insert DivisionWorkhttp://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:50:56
+
+MsSql.DyLeader.SQL: 
+Update DivisionWork set PersonalID=PersonalID,DividedContent=DividedContent,StartDate=StartDate,EndDate=EndDate,Effect=Effect where id='17'
+PersonalID-> 88
+DividedContent-> xxxxx1
+StartDate-> 2010/12/5 0:00:00
+EndDate-> 2018/1/3 0:00:00
+Effect-> qwwq
+http://localhost:60872/AjaxMethod/Save.cspx?table=DivisionWork
+Referer:http://localhost:60872/personal/divisionwork.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 09:50:56
+
+MsSql.DyLeader.SQL: 
+Update DivisionWork set PersonalID=PersonalID,DividedContent=DividedContent,StartDate=StartDate,EndDate=EndDate,Effect=Effect where id='17'
+PersonalID-> 88
+DividedContent-> xxxxx1
+StartDate-> 2010/12/5 0:00:00
+EndDate-> 2018/1/3 0:00:00
+Effect-> qwwq
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:24:28
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:24:28
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,EndDate=EndDate,Duty=Duty,Status=Status,SectionName=SectionName where id='16'
+PersonalID-> 12
+WorkUnit-> 东阳市纪委
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+SectionName-> 东阳市纪委领导
+http://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/personal/specialsupervision.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:25:59
+insert PatrolInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/personal/specialsupervision.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:25:59
+
+MsSql.DyLeader.SQL: 
+Update PatrolInspection set PersonalID=PersonalID,Date=Date,Content=Content where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Content-> fdhfgh1
+http://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/personal/specialsupervision.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:25:59
+insert PatrolInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/personal/specialsupervision.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:25:59
+
+MsSql.DyLeader.SQL: 
+Update PatrolInspection set PersonalID=PersonalID,Date=Date,Content=Content where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Content-> fdhfgh1
+http://localhost:60872/AjaxMethod/Save.cspx?table=PostsAndStaffInspection
+Referer:http://localhost:60872/personal/specialsupervision.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:26:14
+insert PostsAndStaffInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PostsAndStaffInspection
+Referer:http://localhost:60872/personal/specialsupervision.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 10:26:14
+
+MsSql.DyLeader.SQL: 
+Update PostsAndStaffInspection set PersonalID=PersonalID,Date=Date,Content=Content where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Content-> tyu
+http://localhost:60872/AjaxMethod/Save.cspx?table=Petition
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:50:55
+insert Petitionhttp://localhost:60872/AjaxMethod/Save.cspx?table=Petition
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:50:55
+
+MsSql.DyLeader.SQL: 
+insert into Petition(IdCard,Date,UserName,Content) 
+IdCard-> 88
+Date-> 2017/1/1 0:00:00
+UserName-> ggg
+Content-> gggg
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:51:51
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:51:51
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 88
+Date-> 2017/8/8 0:00:00
+Place-> jhjhh
+Content-> hhhh
+http://localhost:60872/AjaxMethod/Save.cspx?table=InspectorInspection
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:52:14
+insert InspectorInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=InspectorInspection
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:52:14
+
+MsSql.DyLeader.SQL: 
+insert into InspectorInspection(IdCard,Date,Content) 
+IdCard-> 88
+Date-> DBNull.Value
+Content-> dfg
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolationHouse
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:56:09
+insert ViolationHousehttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolationHouse
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:56:09
+
+MsSql.DyLeader.SQL: 
+insert into ViolationHouse(IdCard,Date,Place,Content) 
+IdCard-> 88
+Date-> 2018/1/4 0:00:00
+Place-> qw
+Content-> qw3e
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolationHouse
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:57:21
+insert ViolationHousehttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolationHouse
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 15:57:21
+
+MsSql.DyLeader.SQL: 
+insert into ViolationHouse(IdCard,Date,Place,Content) 
+IdCard-> 88
+Date-> 2018/1/4 0:00:00
+Place-> ttytyyt
+Content-> tytrf57r57gy8uyh
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 16:00:39
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 16:00:39
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 88
+Date-> 2018/1/1 0:00:00
+Place-> 45789
+Content-> ttfkftjftgjft
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 16:02:12
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 16:02:12
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 88
+Date-> 2017/1/1 0:00:00
+Place-> rrdjr
+Content-> tfjr56567t6fj
+http://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 16:02:29
+insert ViolatingLawhttp://localhost:60872/AjaxMethod/Save.cspx?table=ViolatingLaw
+Referer:http://localhost:60872/personal/Inspection.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-07 16:02:29
+
+MsSql.DyLeader.SQL: 
+insert into ViolatingLaw(IdCard,Date,Place,Content) 
+IdCard-> 88
+Date-> 2017/8/8 0:00:00
+Place-> gykyg
+Content-> ytkytkt6yk
