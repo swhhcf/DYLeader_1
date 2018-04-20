@@ -1,7 +1,0 @@
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\bin\Debug\SExtension.XML
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\bin\Debug\SExtension.dll
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\bin\Debug\SExtension.pdb
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\obj\Debug\SExtension.csproj.CoreCompileInputs.cache
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\obj\Debug\SExtension.dll
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\obj\Debug\SExtension.pdb
-E:\WorkDoc\lgh_leader\DYLeader\SStringExt\obj\Debug\SExtension.csprojResolveAssemblyReference.cache
