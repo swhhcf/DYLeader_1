@@ -1,0 +1,511 @@
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:37:59
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:37:59
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 李四国
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:38:00
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:38:00
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:38:00
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID) 
+PersonalID-> 48
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:38:00
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus,JoinDate) 
+PersonalID-> 48
+PoliticsStatus-> 中共党员
+JoinDate-> 2017/12/19 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:38:21
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 15:38:21
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 48
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> 学历
+Degree-> 学校
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:10:33
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:10:33
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,IsHighest=IsHighest where id='14'
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/7 0:00:00
+EndDate-> 9999/12/31 0:00:00
+IsHighest-> 0
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:10:47
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:10:47
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,IsHighest=IsHighest where id='14'
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校1111
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+EndDate-> 9999/12/31 0:00:00
+IsHighest-> 0
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:11:48
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:11:48
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,IsHighest=IsHighest where id='14'
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校444
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+EndDate-> 9999/12/31 0:00:00
+IsHighest-> 0
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:12:02
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:12:02
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,IsHighest=IsHighest where id='14'
+PersonalID-> 4
+IsFullTime-> 1
+School-> 学校555
+Department-> 院系
+Major-> 专业
+StartDate-> 2017/12/26 0:00:00
+EndDate-> 9999/12/31 0:00:00
+IsHighest-> 0
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:12:38
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:12:38
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='14'
+PersonalID-> 4
+IsFullTime-> 1
+School-> 水军
+Department-> 水不
+Major-> 是中
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Status-> DBNull.Value
+EduBackground-> 大在
+Degree-> 在在
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:13:18
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html?personalId=4
+---------------------------------------
+Record On: 2017-12-27 20:13:18
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='14'
+PersonalID-> 4
+IsFullTime-> 1
+School-> 浑国
+Department-> 在地
+Major-> 要工
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/21 0:00:00
+Status-> DBNull.Value
+EduBackground-> 学业有成
+Degree-> 在在
+IsHighest-> 1
+http://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:19
+insert Personalhttp://localhost:8080/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:19
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,NativePlace) 
+Fullname-> 施伟慧
+IdCard-> 330724197510205258
+Gender-> 1
+Birthday-> 1975/10/20 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:19
+insert Addrhttp://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:19
+insert Politicshttp://localhost:8080/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:19
+
+MsSql.DyLeader.SQL: 
+insert into Addr(PersonalID,Addr,Tel) 
+PersonalID-> 49
+Addr-> 在在
+Tel-> 12345678
+http://localhost:8080/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:19
+
+MsSql.DyLeader.SQL: 
+insert into Politics(PersonalID,PoliticsStatus,JoinDate) 
+PersonalID-> 49
+PoliticsStatus-> 中共党员
+JoinDate-> 2017/12/20 0:00:00
+http://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:49
+insert EduExperiencehttp://localhost:8080/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:8080/personal/personal.html
+---------------------------------------
+Record On: 2017-12-27 20:14:49
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 49
+IsFullTime-> 1
+School-> 大学
+Department-> 大专
+Major-> 大专本
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/27 0:00:00
+Status-> DBNull.Value
+EduBackground-> 要在
+Degree-> 地一
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=undefined
+---------------------------------------
+Record On: 2017-12-27 22:02:16
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=undefined
+---------------------------------------
+Record On: 2017-12-27 22:02:16
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> DBNull.Value
+School-> ass
+Department-> adsf
+Major-> asdf
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> asdf
+Degree-> asdf
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=undefined
+---------------------------------------
+Record On: 2017-12-27 22:03:49
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=undefined
+---------------------------------------
+Record On: 2017-12-27 22:03:49
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> DBNull.Value
+IsFullTime-> 1
+School-> dffg
+Department-> dsfg
+Major-> sdf
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/11/28 0:00:00
+Status-> DBNull.Value
+EduBackground-> sdf
+Degree-> sdf
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:19:51
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:19:51
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+IsFullTime-> 1
+School-> dd 
+Department-> dd
+Major-> ee
+StartDate-> 2017/12/6 0:00:00
+EndDate-> 2017/12/27 0:00:00
+Status-> DBNull.Value
+EduBackground-> ff
+Degree-> gg
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:20:16
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:20:16
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+IsFullTime-> 1
+School-> cv
+Department-> cvb
+Major-> cn 
+StartDate-> 2017/11/28 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> cvb
+Degree-> cvb
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:20:53
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:20:53
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+School-> gf
+Department-> fg
+Major-> hg
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> fgh
+Degree-> fg
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:21:26
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:21:26
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+IsFullTime-> 1
+School-> aa
+Department-> aa
+Major-> aa
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> aaa
+Degree-> aa
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:23:32
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:23:32
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+School-> bb
+Department-> bb
+Major-> bb
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Status-> DBNull.Value
+EduBackground-> bb
+Degree-> bb
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:25:39
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:25:39
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+School-> cc
+Department-> cc
+Major-> cc
+StartDate-> 2017/12/6 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> ccc
+Degree-> cc
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:31:19
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:31:19
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+School-> eee
+Department-> eee
+Major-> eee
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Status-> DBNull.Value
+EduBackground-> eee
+Degree-> eee
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:32:44
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-27 22:32:44
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+School-> ff
+Department-> ff
+Major-> ff
+StartDate-> 2017/12/11 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> fff
+Degree-> ff
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-27 22:35:50
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-27 22:35:50
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 87
+School-> aa
+Department-> aa
+Major-> aa
+StartDate-> 2017/12/6 0:00:00
+EndDate-> 2017/12/6 0:00:00
+Status-> DBNull.Value
+EduBackground-> aaa
+Degree-> aaa
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-27 22:42:15
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-27 22:42:15
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 87
+IsFullTime-> 1
+School-> bb
+Department-> bb
+Major-> bbb
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Status-> DBNull.Value
+EduBackground-> bb
+Degree-> bb
+IsHighest-> 1

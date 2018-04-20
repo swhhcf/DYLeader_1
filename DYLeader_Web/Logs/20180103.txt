@@ -1,0 +1,81 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-03 22:40:50
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-03 22:40:50
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+School-> 东阳
+Department-> 苦
+Major-> dsaf
+StartDate-> 2018/1/3 0:00:00
+EndDate-> 2018/1/3 0:00:00
+Status-> DBNull.Value
+EduBackground-> 顶替
+Degree-> 模压
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-03 22:55:04
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-03 22:55:04
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='24'
+PersonalID-> 12
+IsFullTime-> 1
+School-> as1
+Department-> sasa
+Major-> assa
+StartDate-> 2018/1/1 0:00:00
+EndDate-> 2018/1/1 0:00:00
+EduBackground-> asa
+Degree-> as
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-03 22:55:22
+insert FamilyMemberhttp://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-03 22:55:22
+
+MsSql.DyLeader.SQL: 
+Update FamilyMember set PersonalID=PersonalID,Relation=Relation,Fullname=Fullname,IdCard=IdCard,PoliticsStatus=PoliticsStatus,WorkUnit=WorkUnit,Duty=Duty where id='3'
+PersonalID-> 12
+Relation-> AA1
+Fullname-> AA
+IdCard-> AAAAAA
+PoliticsStatus-> 中共党员
+WorkUnit-> AAA
+Duty-> AA
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-03 22:55:54
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-03 22:55:54
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='6'
+PersonalID-> 88
+IsFullTime-> 1
+School-> 磊在1
+Department-> ee
+Major-> ff
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/12 0:00:00
+EduBackground-> ff
+Degree-> dd
+IsHighest-> 1

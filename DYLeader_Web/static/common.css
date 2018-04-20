@@ -1,0 +1,60 @@
+﻿h5 {
+    margin-top: 0;
+}
+
+.panel {
+    color: #333;
+    font-size: 18px;
+    margin: 12px 0 3px 6px;
+    position: relative;
+}
+
+    .panel::before {
+        content: '';
+        display: inline-block;
+        position: absolute;
+        left: -10px;
+        width: 3px;
+        height: 20px;
+        background-color: #fa9a10;
+    }
+
+.mt-0 {
+    margin-top: 0;
+}
+
+.mt-3 {
+    margin-top: 3px;
+}
+
+.mt--3 {
+    margin-top: -2px;
+}
+
+.mt--10 {
+    margin-top: -10px;
+}
+
+.ml-0 {
+    padding-left: 0 !important;
+}
+
+.pr-26 {
+    padding-right: 26px;
+}
+
+.pr-28 {
+    padding-right: 28px;
+}
+
+.pt-3 {
+    padding-top: 3px;
+}
+
+.pt-3 {
+    padding-top: 3px;
+}
+
+.w-100 {
+    width: 100px;
+}

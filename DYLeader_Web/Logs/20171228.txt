@@ -1,0 +1,831 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:02
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:02
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 88
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/11/28 0:00:00
+Duty-> aa
+Degree-> aa
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:24
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:24
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 88
+WorkUnit-> ass
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Duty-> bbbb
+Degree-> bbbb
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:30
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:30
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID) 
+PersonalID-> 88
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:30
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88
+---------------------------------------
+Record On: 2017-12-28 13:22:30
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID) 
+PersonalID-> 88
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:52:33
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:52:33
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 84
+IsFullTime-> 1
+School-> sa
+Department-> sa
+Major-> as
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Status-> DBNull.Value
+EduBackground-> as
+Degree-> sa
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:53:11
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:53:11
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 84
+School-> aa
+Department-> aa
+Major-> aa
+StartDate-> 2017/11/28 0:00:00
+EndDate-> 2017/12/14 0:00:00
+Status-> DBNull.Value
+EduBackground-> a
+Degree-> a
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:53:30
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:53:30
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 84
+WorkUnit-> a
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> a
+Degree-> a
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:53:32
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 16:53:32
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID) 
+PersonalID-> 84
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:20:26
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:20:26
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 87
+IsFullTime-> 1
+School-> AA
+Department-> AA
+Major-> AA
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Status-> DBNull.Value
+EduBackground-> A
+Degree-> A
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:20:48
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:20:48
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 87
+School-> WWW
+Department-> WWW
+Major-> WW
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/6 0:00:00
+Status-> DBNull.Value
+EduBackground-> WWW
+Degree-> WW
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:22:33
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:22:33
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='18'
+PersonalID-> 87
+IsFullTime-> 1
+School-> bb
+Department-> bb
+Major-> bbb
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/5 0:00:00
+EduBackground-> bb
+Degree-> bb
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html
+---------------------------------------
+Record On: 2017-12-28 17:33:34
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html
+---------------------------------------
+Record On: 2017-12-28 17:33:34
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin) 
+Fullname-> 李四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html
+---------------------------------------
+Record On: 2017-12-28 17:34:03
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html
+---------------------------------------
+Record On: 2017-12-28 17:34:03
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,UsedName) 
+Fullname-> 李四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+UsedName-> sdf
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html
+---------------------------------------
+Record On: 2017-12-28 17:34:41
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html
+---------------------------------------
+Record On: 2017-12-28 17:34:41
+
+MsSql.DyLeader.SQL: 
+insert into Personal(Fullname,IdCard,Gender,Birthday,Ethnicity,NativeOrigin,UsedName) 
+Fullname-> 李四
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+UsedName-> sdf
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:36:44
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:36:44
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 87
+IsFullTime-> 1
+School-> cccccc
+Department-> cccc
+Major-> ccc
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/19 0:00:00
+Status-> DBNull.Value
+EduBackground-> cccc
+Degree-> cc
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:37:54
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:37:54
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 87
+WorkUnit-> aa
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> aa
+Degree-> aa
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:37:56
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 17:37:56
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID) 
+PersonalID-> 87
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:05:36
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:05:36
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 87
+WorkUnit-> www
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Duty-> www
+Degree-> ww
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:06:47
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:06:47
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 87
+WorkUnit-> sss
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Duty-> ssss
+Degree-> sss
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:07:55
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:07:55
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 87
+WorkUnit-> qqq
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Duty-> qqq
+Degree-> qqq
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:11:40
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=87
+---------------------------------------
+Record On: 2017-12-28 20:11:40
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 87
+WorkUnit-> eee
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Duty-> eee
+Degree-> eee
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2017-12-28 20:17:32
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2017-12-28 20:17:32
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 17
+WorkUnit-> www
+StartDate-> 2017/12/5 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Duty-> www
+Degree-> ww
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2017-12-28 20:23:03
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2017-12-28 20:23:03
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 17
+WorkUnit-> ddd
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/4 0:00:00
+Duty-> dd
+Degree-> dd
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:46:59
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:46:59
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 84
+WorkUnit-> qq
+StartDate-> 2017/12/12 0:00:00
+EndDate-> 2017/12/11 0:00:00
+Duty-> qq
+Degree-> qq
+http://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:20
+insert FamilyMemberhttp://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:20
+
+MsSql.DyLeader.SQL: 
+insert into FamilyMember(PersonalID,Relation,Fullname,IdCard,PoliticsStatus,WorkUnit,Duty) 
+PersonalID-> 84
+Relation-> qq
+Fullname-> qq
+IdCard-> 124234
+PoliticsStatus-> 中共党员
+WorkUnit-> assa
+Duty-> wq
+http://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:28
+insert FamilyMemberhttp://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:28
+
+MsSql.DyLeader.SQL: 
+insert into FamilyMember(PersonalID) 
+PersonalID-> 84
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:40
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:40
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID,Appoint,Remove,Memo,Date) 
+PersonalID-> 84
+Appoint-> qw
+Remove-> qw
+Memo-> qw
+Date-> 2017/12/4 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:55
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:47:55
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID,Major,Speciality,Degree,Date) 
+PersonalID-> 84
+Major-> qw
+Speciality-> wq
+Degree-> qw
+Date-> 2017/12/19 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:48:09
+insert RewardPunishhttp://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/personal/personal.html?personalId=84
+---------------------------------------
+Record On: 2017-12-28 20:48:09
+
+MsSql.DyLeader.SQL: 
+insert into RewardPunish(PersonalID,WorkUnit,IsReward,Date,ReleaseUnit,Degree,Memo) 
+PersonalID-> 84
+WorkUnit-> qw
+IsReward-> wq
+Date-> 2017/11/28 0:00:00
+ReleaseUnit-> qw
+Degree-> wq
+Memo-> wq
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:53:07
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:53:07
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 12
+WorkUnit-> aas
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> sasa
+Degree-> as
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:53:18
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:53:18
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID,Major,Speciality,Degree,Date) 
+PersonalID-> 12
+Major-> ass
+Speciality-> sa
+Degree-> sa
+Date-> 2017/12/26 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:53:20
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:53:20
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID) 
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:56:54
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:56:54
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree) 
+PersonalID-> 12
+WorkUnit-> aaaa
+StartDate-> 2017/12/19 0:00:00
+EndDate-> 2017/12/5 0:00:00
+Duty-> aaaa
+Degree-> aaaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:57:14
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 20:57:14
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID,Major,Speciality,Degree,Date) 
+PersonalID-> 12
+Major-> aaaaa
+Speciality-> aaaaa
+Degree-> aaaa
+Date-> 2017/12/19 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:02:24
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:02:24
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID,Major,Speciality,Degree,Date) 
+PersonalID-> 12
+Major-> aa
+Speciality-> aa
+Degree-> aa
+Date-> 2017/12/12 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:02:27
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:02:27
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID) 
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:02:49
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:02:49
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID,Major,Speciality,Degree,Date) 
+PersonalID-> 12
+Major-> aaa
+Speciality-> aaa
+Degree-> aa
+Date-> 2017/12/5 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:06
+insert RewardPunishhttp://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:06
+
+MsSql.DyLeader.SQL: 
+insert into RewardPunish(PersonalID,WorkUnit,IsReward,Date,ReleaseUnit,Degree,Memo) 
+PersonalID-> 12
+WorkUnit-> AA
+IsReward-> AA
+Date-> 2017/12/5 0:00:00
+ReleaseUnit-> AA
+Degree-> AA
+Memo-> AA
+http://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:22
+insert RewardPunishhttp://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:22
+
+MsSql.DyLeader.SQL: 
+insert into RewardPunish(PersonalID,WorkUnit,IsReward,Date,ReleaseUnit,Degree,Memo) 
+PersonalID-> 12
+WorkUnit-> BB
+IsReward-> BB
+Date-> 2017/12/6 0:00:00
+ReleaseUnit-> BBB
+Degree-> BB
+Memo-> BB
+http://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:34
+insert AnnualAppraisalhttp://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:34
+
+MsSql.DyLeader.SQL: 
+insert into AnnualAppraisal(PersonalID,WorkUnit,Date,Degree) 
+PersonalID-> 12
+WorkUnit-> AS
+Date-> DBNull.Value
+Degree-> AA
+http://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:48
+insert FamilyMemberhttp://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 21:50:48
+
+MsSql.DyLeader.SQL: 
+insert into FamilyMember(PersonalID,Relation,Fullname,IdCard,PoliticsStatus,WorkUnit,Duty) 
+PersonalID-> 12
+Relation-> AA
+Fullname-> AA
+IdCard-> AAAAAA
+PoliticsStatus-> 中共党员
+WorkUnit-> AAA
+Duty-> AA
+http://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:14:58
+insert FamilyMemberhttp://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:14:58
+
+MsSql.DyLeader.SQL: 
+insert into FamilyMember(PersonalID,Relation,Fullname,IdCard,PoliticsStatus,WorkUnit,Duty) 
+PersonalID-> 12
+Relation-> rt
+Fullname-> rt
+IdCard-> 2017-12-11
+PoliticsStatus-> 中共党员
+WorkUnit-> rt
+Duty-> rt
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:39:38
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:39:38
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID,Appoint,Remove,Memo,ExaminationAuthority,AppointmentOpinion,FillFormName) 
+PersonalID-> 12
+Appoint-> s
+Remove-> s
+Memo-> s
+ExaminationAuthority-> ss
+AppointmentOpinion-> 2017-12-28
+FillFormName-> 2017-12-28
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:39:41
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:39:41
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID) 
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:42:05
+insert FamilyMemberhttp://localhost:60872/AjaxMethod/Save.cspx?table=FamilyMember
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:42:05
+
+MsSql.DyLeader.SQL: 
+insert into FamilyMember(PersonalID,Relation,Fullname,IdCard,PoliticsStatus,WorkUnit,Duty) 
+PersonalID-> 12
+Relation-> aa
+Fullname-> aa
+IdCard-> 2017-12-05
+PoliticsStatus-> 中共党员
+WorkUnit-> aa
+Duty-> a
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:42:35
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:42:35
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID,Appoint,Remove,Memo,ExaminationAuthority,AppointmentOpinion,FillFormName) 
+PersonalID-> 12
+Appoint-> aa
+Remove-> aa
+Memo-> aa
+ExaminationAuthority-> aa
+AppointmentOpinion-> aa
+FillFormName-> aa
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:42:36
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:42:36
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID) 
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:52:00
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:52:00
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID,Appoint,Remove,Memo,ExaminationAuthority,AppointmentOpinion,FillFormName) 
+PersonalID-> 12
+Appoint-> a
+Remove-> a
+Memo-> a
+ExaminationAuthority-> a
+AppointmentOpinion-> a
+FillFormName-> a
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:52:05
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:52:05
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID) 
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:55:51
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2017-12-28 22:55:51
+
+MsSql.DyLeader.SQL: 
+insert into PlaneAppointRemove(PersonalID,Appoint,Remove,Memo,ExaminationAuthority,AppointmentOpinion,FillFormName) 
+PersonalID-> 12
+Appoint-> a
+Remove-> a
+Memo-> a
+ExaminationAuthority-> a
+AppointmentOpinion-> a
+FillFormName-> a

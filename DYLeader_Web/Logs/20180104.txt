@@ -1,0 +1,532 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 10:37:46
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 10:37:46
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='6'
+PersonalID-> 88
+IsFullTime-> 1
+School-> 磊在
+Department-> ee
+Major-> ff
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/12 0:00:00
+EduBackground-> ff
+Degree-> dd
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 10:38:19
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 10:38:19
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='6'
+PersonalID-> 88
+IsFullTime-> 1
+School-> 磊在1
+Department-> ee
+Major-> ff
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/12 0:00:00
+EduBackground-> ff
+Degree-> dd
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:38:09
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:38:09
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace,UsedName=UsedName where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+UsedName-> aa
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:44:00
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:44:00
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='24'
+PersonalID-> 12
+IsFullTime-> 1
+School-> 浙江大学
+Department-> 管理专业第
+Major-> 行政管理
+StartDate-> 1985/7/30 0:00:00
+EndDate-> 1989/7/30 0:00:00
+Status-> DBNull.Value
+EduBackground-> 大学本科
+Degree-> 学士
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:46:13
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:46:13
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='24'
+PersonalID-> 12
+School-> 北京大学
+Department-> 行政管理系
+Major-> 行政管理
+StartDate-> 1992/1/1 0:00:00
+EndDate-> 1995/1/1 0:00:00
+Status-> DBNull.Value
+EduBackground-> 硕士
+Degree-> 硕士
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:46:33
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:46:33
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID where id='24'
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:49:06
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:49:06
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,EndDate,Duty,Degree,SectionName) 
+PersonalID-> 12
+WorkUnit-> bbb
+StartDate-> 2018/1/4 0:00:00
+EndDate-> 2018/1/4 0:00:00
+Duty-> bb
+Degree-> bb
+SectionName-> bb
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:49:35
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:49:35
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='24'
+PersonalID-> 12
+School-> bbb
+Department-> bbb
+Major-> bb
+StartDate-> 2018/1/4 0:00:00
+EndDate-> 2018/1/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> bbb
+Degree-> bb
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:49:59
+insert MajorDegreehttp://localhost:60872/AjaxMethod/Save.cspx?table=MajorDegree
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:49:59
+
+MsSql.DyLeader.SQL: 
+insert into MajorDegree(PersonalID,Major,Speciality,Degree,Date) 
+PersonalID-> 12
+Major-> bb
+Speciality-> bb
+Degree-> bb
+Date-> 2018/1/4 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:50:21
+insert RewardPunishhttp://localhost:60872/AjaxMethod/Save.cspx?table=RewardPunish
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:50:21
+
+MsSql.DyLeader.SQL: 
+insert into RewardPunish(PersonalID,WorkUnit,IsReward,Date,ReleaseUnit,Degree,Memo) 
+PersonalID-> 12
+WorkUnit-> ccc
+IsReward-> ccc
+Date-> 2018/1/4 0:00:00
+ReleaseUnit-> ccc
+Degree-> bb
+Memo-> ccc
+http://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:50:42
+insert AnnualAppraisalhttp://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:50:42
+
+MsSql.DyLeader.SQL: 
+insert into AnnualAppraisal(PersonalID,WorkUnit,Date,Degree) 
+PersonalID-> 12
+WorkUnit-> cc
+Date-> 2018/1/1 0:00:00
+Degree-> ccc
+http://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:51:53
+insert PlaneAppointRemovehttp://localhost:60872/AjaxMethod/Save.cspx?table=PlaneAppointRemove
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:51:53
+
+MsSql.DyLeader.SQL: 
+Update PlaneAppointRemove set PersonalID=PersonalID,Appoint=Appoint,Remove=Remove,Memo=Memo,ReportingDate=ReportingDate,ExaminationAuthority=ExaminationAuthority,ExaminationDate=ExaminationDate,AppointmentOpinion=AppointmentOpinion,FillFormName=FillFormName,ReportingUnit=ReportingUnit where id='8'
+PersonalID-> 12
+Appoint-> aa2
+Remove-> aaa
+Memo-> aaa
+ReportingDate-> 1900/1/1 0:00:00
+ExaminationAuthority-> a
+ExaminationDate-> 2017/12/4 0:00:00
+AppointmentOpinion-> aa
+FillFormName-> a
+ReportingUnit-> aaa
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:54:12
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:54:12
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,EndDate=EndDate,Duty=Duty,Degree=Degree,SectionName=SectionName where id='16'
+PersonalID-> 12
+WorkUnit-> 东阳市纪委
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> 纪委副书记
+Degree-> 副处
+SectionName-> 东阳市纪委
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:54:33
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:54:33
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,EndDate=EndDate,Duty=Duty,Degree=Degree,SectionName=SectionName where id='16'
+PersonalID-> 12
+WorkUnit-> 东阳市纪委
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> 纪委副书记
+Degree-> 副处
+SectionName-> 东阳市纪委
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:55:07
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:55:07
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,EndDate=EndDate,Duty=Duty,Degree=Degree,SectionName=SectionName where id='16'
+PersonalID-> 12
+WorkUnit-> 东阳市纪委
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> 纪委副书记
+Degree-> 副处
+SectionName-> 东阳市纪委
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:55:07
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 21:55:07
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID where id='16'
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 22:03:11
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 22:03:11
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='6'
+PersonalID-> 88
+IsFullTime-> 1
+School-> 磊在
+Department-> ee
+Major-> ff
+StartDate-> 2017/11/27 0:00:00
+EndDate-> 2017/12/12 0:00:00
+EduBackground-> ff
+Degree-> dd
+IsHighest-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 22:03:38
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 22:03:38
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='6'
+PersonalID-> 88
+School-> fffff
+Department-> ffffff
+Major-> ffff
+StartDate-> 2018/1/4 0:00:00
+EndDate-> 2018/1/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> fff
+Degree-> ff
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 22:04:08
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-04 22:04:08
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,Status=Status,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='6'
+PersonalID-> 88
+School-> ggg
+Department-> ggg
+Major-> gg
+StartDate-> 2018/1/4 0:00:00
+EndDate-> 2018/1/4 0:00:00
+Status-> DBNull.Value
+EduBackground-> gg
+Degree-> gg
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2018-01-04 22:12:47
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2018-01-04 22:12:47
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace,UsedName=UsedName where id='17'
+Fullname-> 邵剑
+IdCard-> 330782199308165566
+Gender-> 1
+Birthday-> 1993/8/16 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市义乌市
+NativePlace-> 浙江省金华市东阳市
+UsedName-> qqq
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2018-01-04 22:14:31
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=17
+---------------------------------------
+Record On: 2018-01-04 22:14:31
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,Duty=Duty,Degree=Degree,SectionName=SectionName where id='13'
+PersonalID-> 17
+WorkUnit-> 东阳市教育局
+StartDate-> 2010/12/5 0:00:00
+Duty-> 科长
+Degree-> 科级
+SectionName-> 人事科
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 22:16:20
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-04 22:16:20
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,EndDate=EndDate,Duty=Duty,Degree=Degree,SectionName=SectionName where id='16'
+PersonalID-> 12
+WorkUnit-> 东阳市纪委
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> 纪委副书记
+Degree-> 副处
+SectionName-> 东阳市纪委领导
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:31:10
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:31:10
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(PersonalID,WorkUnit,StartDate,Duty,SectionName) 
+PersonalID-> 23
+WorkUnit-> 市纪律检查委员会
+StartDate-> 2017/1/4 0:00:00
+Duty-> 纪委副书记
+SectionName-> 市纪委办公室
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:32:51
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:32:51
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='23'
+Fullname-> 马才中
+IdCard-> 441202197805244773
+Gender-> 1
+Birthday-> 1978/5/24 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:32:59
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:32:59
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='23'
+Fullname-> 马才中
+IdCard-> 441202197805244773
+Gender-> 1
+Birthday-> 1978/5/24 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:33:22
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:33:22
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='23'
+Fullname-> 马才中
+IdCard-> 441202197805244773
+Gender-> 1
+Birthday-> 1978/5/24 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:33:24
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:33:24
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='23'
+Fullname-> 马才中
+IdCard-> 441202197805244773
+Gender-> 1
+Birthday-> 1978/5/24 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:33:24
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=23
+---------------------------------------
+Record On: 2018-01-04 22:33:24
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='23'
+Fullname-> 马才中
+IdCard-> 441202197805244773
+Gender-> 1
+Birthday-> 1978/5/24 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=94
+---------------------------------------
+Record On: 2018-01-04 22:54:32
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/Personal/personal.html?personalId=94
+---------------------------------------
+Record On: 2018-01-04 22:54:32
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace where id='94'
+Fullname-> 李四
+IdCard-> 330724197801011111
+Gender-> 1
+Birthday-> 1978/1/1 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省金华市东阳市
+NativePlace-> 浙江省金华市东阳市

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../lib/Validform/style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="frm" action="AjaxMethod/Get.cspx" method="post">
+        <input datatype="*3-10" nullmsg="dddd" type="text" id="a" name="a" value="" />
+        <input type="submit" value="submit" />
+    </form>
+
+    <script src="../lib/jquery/jquery-1.11.3.min.js"></script>
+    <script src="../lib/Validform/Validform_v5.3.2.js"></script>
+    <script src="../lib/Validform/Validform_Datatype.js"></script>
+    <script src="../lib/jquery.form.js"></script>
+    <script>
+        $('#frm').Validform({
+            callback: function () {
+                //$('form').ajaxSubmit({
+                //    success: function () {
+                //        alert('success');
+                //    }
+                //});
+                return false;
+            }
+        });
+    </script>
+</body>
+</html>

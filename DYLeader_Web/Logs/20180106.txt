@@ -1,0 +1,596 @@
+http://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+insert Personalhttp://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+insert Addrhttp://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+insert Politicshttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:09:37
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+insert Personalhttp://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+insert Politicshttp://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+insert Addrhttp://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:47
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+insert Personalhttp://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+insert Politicshttp://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+insert Addrhttp://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:10:51
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+insert Personalhttp://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+insert Addrhttp://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+insert Politicshttp://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:11:41
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='88'
+Fullname-> 张三
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+insert Politicshttp://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 88
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+insert Addrhttp://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID,Tel=Tel where id='3'
+PersonalID-> 88
+Tel-> 12345
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:27:11
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='13'
+PersonalID-> 88
+StartDate-> 2010/12/5 0:00:00
+Duty-> 科长
+Status-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='88'
+Fullname-> 张三
+IdCard-> 33072419800505123X
+Gender-> 1
+Birthday-> 1980/5/5 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+insert Politicshttp://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+insert Addrhttp://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 88
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID,Tel=Tel where id='3'
+PersonalID-> 88
+Tel-> 12345
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=88&idCard=33072419800505123X
+---------------------------------------
+Record On: 2018-01-06 12:28:44
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='13'
+PersonalID-> 88
+StartDate-> 2010/12/5 0:00:00
+Duty-> 科长
+Status-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+insert Politicshttp://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+insert Addrhttp://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:39
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+insert Personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+insert Politicshttp://localhost:60872/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+insert Addrhttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 12:32:42
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:01
+insert Personalhttp://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:01
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:02
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:02
+insert Politicshttp://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:02
+insert Addrhttp://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:02
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:02
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:02
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+insert Personalhttp://localhost/AjaxMethod/Save.cspx?table=Personal
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday where id='12'
+Fullname-> 杜晓旺
+IdCard-> 330724197304291124
+Gender-> 1
+Birthday-> 1973/4/29 0:00:00
+http://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+insert Politicshttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+insert Addrhttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,StartDate=StartDate,Duty=Duty,Status=Status where id='16'
+PersonalID-> 12
+StartDate-> 2017/12/4 0:00:00
+Duty-> 纪委副书记
+Status-> 1
+http://localhost/AjaxMethod/Save.cspx?table=Addr
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+
+MsSql.DyLeader.SQL: 
+Update Addr set PersonalID=PersonalID where id='1'
+PersonalID-> 12
+http://localhost/AjaxMethod/Save.cspx?table=Politics
+Referer:http://localhost/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 16:38:12
+
+MsSql.DyLeader.SQL: 
+Update Politics set PersonalID=PersonalID,PoliticsStatus=PoliticsStatus,JoinDate=JoinDate where id='3'
+PersonalID-> 12
+PoliticsStatus-> 中共党员
+JoinDate-> 9999/12/31 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 20:53:35
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 20:53:35
+
+MsSql.DyLeader.SQL: 
+Update EduExperience set PersonalID=PersonalID,IsFullTime=IsFullTime,School=School,Department=Department,Major=Major,StartDate=StartDate,EndDate=EndDate,EduBackground=EduBackground,Degree=Degree,IsHighest=IsHighest where id='24'
+PersonalID-> 12
+IsFullTime-> 1
+School-> bbb
+Department-> bbb
+Major-> bb
+StartDate-> 2018/1/4 0:00:00
+EndDate-> 2018/1/4 0:00:00
+EduBackground-> bbb
+Degree-> bb
+IsHighest-> 0
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 20:53:42
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12&idCard=330724197304291124
+---------------------------------------
+Record On: 2018-01-06 20:53:42
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,School) 
+PersonalID-> 12
+School-> eeeee

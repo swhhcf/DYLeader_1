@@ -1,0 +1,76 @@
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 17:45:17
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 17:45:17
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(Degree) 
+Degree-> 中层副职
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:31:54
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:31:54
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,Duty,Degree,SectionName,PersonalIdCard) 
+StartDate-> 2018/1/4 0:00:00
+Duty-> 办公室主任
+Degree-> 正科
+SectionName-> 办公室
+PersonalIdCard-> 33072419970716564X
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:33:20
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:33:20
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,Duty,Degree,SectionName,PersonalIdCard) 
+StartDate-> 2018/1/4 0:00:00
+Duty-> 办公室副主任
+Degree-> 正科
+SectionName-> 办公室
+PersonalIdCard-> 330724199612233945
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:35:35
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:35:35
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,Duty,Degree,SectionName,PersonalIdCard) 
+StartDate-> 2018/1/4 0:00:00
+Duty-> 办公室主任
+Degree-> 副科
+SectionName-> 办公室
+PersonalIdCard-> 330724199706055465
+http://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:44:07
+insert WorkExperiencehttp://localhost/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost/personal/
+---------------------------------------
+Record On: 2018-01-25 18:44:07
+
+MsSql.DyLeader.SQL: 
+insert into WorkExperience(StartDate,Duty,Degree,SectionName,PersonalIdCard) 
+StartDate-> 2018/1/4 0:00:00
+Duty-> 办公室主任
+Degree-> 中层副职
+SectionName-> 办公室
+PersonalIdCard-> 330724199708313421

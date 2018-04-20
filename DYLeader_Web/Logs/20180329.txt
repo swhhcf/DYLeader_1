@@ -1,0 +1,372 @@
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:14
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(FullName,WorkUnit,PersonalIdCard,DividedContent,StartDate,EndDate,Effect) values('陈家栋','市纪律检查委员会（监察局）','330724197001011235 ','aaa','2018-1-1','2018-3-1','aaaa')
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:14
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from WorkExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:14
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from EduExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:14
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from RewardPunish t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:15
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from AnnualAppraisal t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:15
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PlaneAppointRemove t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:15
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from FamilyMember t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 09:50:15
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from MaritalStatus t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(FullName,WorkUnit,PersonalIdCard,DividedContent,StartDate,EndDate,Effect) values('陈家栋','市纪律检查委员会（监察局）','330724197001011235 ','aaa','2018-1-1','2018-3-1','aaaa')
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from WorkExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from EduExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from RewardPunish t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from AnnualAppraisal t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PlaneAppointRemove t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from FamilyMember t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:30:26
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from MaritalStatus t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(FullName,WorkUnit,PersonalIdCard,DividedContent,StartDate,EndDate,Effect) values('陈家栋','市纪律检查委员会（监察局）','330724197001011235 ','aaa','2018-1-1','2018-3-1','aaaa')
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from WorkExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from EduExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from RewardPunish t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from AnnualAppraisal t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PlaneAppointRemove t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:38
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from FamilyMember t left join VPersonal v on t.Fullname1=v.Fullname and t.WorkUnit1=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:31:39
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from MaritalStatus t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(FullName,WorkUnit,PersonalIdCard,DividedContent,StartDate,EndDate,Effect) values('陈家栋','市纪律检查委员会（监察局）','330724197001011235 ','aaa','2018-1-1','2018-3-1','aaaa')
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from WorkExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from EduExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from RewardPunish t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from AnnualAppraisal t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PlaneAppointRemove t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from FamilyMember t left join VPersonal v on t.Fullname1=v.Fullname and t.WorkUnit1=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from MaritalStatus t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:37:52
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from Petition  t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+insert into DivisionWork(FullName,WorkUnit,PersonalIdCard,DividedContent,StartDate,EndDate,Effect) values('陈家栋','市纪律检查委员会（监察局）','330724197001011235 ','aaa','2018-1-1','2018-3-1','aaaa')
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from WorkExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from EduExperience t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from RewardPunish t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from AnnualAppraisal t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PlaneAppointRemove t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from FamilyMember t left join VPersonal v on t.Fullname1=v.Fullname and t.WorkUnit1=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from MaritalStatus t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from DivisionWork t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from KeyProjectAndWork t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from OrdinaryInspection t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from SpecialInspection t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from DemocraticEvaluation t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from DemocraticRecommendation t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PatrolInspection t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from PostsAndStaffInspection t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxExcel/Import.cspx
+Referer:http://localhost:60872/ExImport/Import.aspx
+---------------------------------------
+Record On: 2018-03-29 12:45:01
+
+MsSql.DyLeader.SQL: 
+update t set t.PersonalIdCard=v.PersonalIdCard, t.IsImport=0 from TrainingLearning t left join VPersonal v on t.Fullname=v.Fullname and t.WorkUnit=v.WorkUnit where IsImport=1
+http://localhost:60872/AjaxDept/New.cspx
+Referer:http://localhost:60872/Personal/default.aspx
+---------------------------------------
+Record On: 2018-03-29 20:36:28
+
+MsSql.DyLeader.SQL: 
+insert into SysDepartment(name,id,pId,IsUsing) select 'asdfadsf' as OutPutValue
+name-> asdfadsf
+id-> 111
+pId-> 111
+IsUsing-> 1
+http://localhost:60872/AjaxDept/New.cspx
+Referer:http://localhost:60872/Personal/default.aspx
+---------------------------------------
+Record On: 2018-03-29 20:37:24
+
+MsSql.DyLeader.SQL: 
+insert into SysDepartment(name,id,pId,IsUsing) select 'bbbb' as OutPutValue
+name-> bbbb
+id-> 111222
+pId-> 111
+IsUsing-> 1

@@ -1,0 +1,267 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=SpecialInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:18:46
+insert SpecialInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=SpecialInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:18:46
+
+MsSql.DyLeader.SQL: 
+Update SpecialInspection set PersonalID=PersonalID,InspectionContent=InspectionContent,Date=Date,Conclusion=Conclusion where id='1'
+PersonalID-> 88
+InspectionContent-> afdsfds1
+Date-> 2018/1/1 0:00:00
+Conclusion-> sdfdsf
+http://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:19:03
+insert AnnualAppraisalhttp://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:19:03
+
+MsSql.DyLeader.SQL: 
+Update AnnualAppraisal set PersonalID=PersonalID,WorkUnit=WorkUnit,Degree=Degree where id='1'
+PersonalID-> 88
+WorkUnit-> AS1
+Degree-> AA
+http://localhost:60872/AjaxMethod/Save.cspx?table=DemocraticEvaluation
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:19:22
+insert DemocraticEvaluationhttp://localhost:60872/AjaxMethod/Save.cspx?table=DemocraticEvaluation
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:19:22
+
+MsSql.DyLeader.SQL: 
+Update DemocraticEvaluation set PersonalID=PersonalID,content=content,Number=Number,Conclusion=Conclusion,Date=Date where id='1'
+PersonalID-> 88
+content-> ghhgghj1
+Number-> 12
+Conclusion-> jhjhjh
+Date-> 2017/12/12 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:47:55
+insert OrdinaryInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:47:55
+
+MsSql.DyLeader.SQL: 
+Update OrdinaryInspection set PersonalID=PersonalID,Date=Date where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:48:11
+insert OrdinaryInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:48:11
+
+MsSql.DyLeader.SQL: 
+Update OrdinaryInspection set PersonalID=PersonalID,Date=Date where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:51:07
+insert OrdinaryInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 07:51:07
+
+MsSql.DyLeader.SQL: 
+Update OrdinaryInspection set PersonalID=PersonalID,Date=Date where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:02:43
+insert OrdinaryInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:02:43
+insert OrdinaryInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:02:43
+
+MsSql.DyLeader.SQL: 
+Update OrdinaryInspection set PersonalID=PersonalID,Date=Date,Effect=Effect where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Effect-> aa1
+http://localhost:60872/AjaxMethod/Save.cspx?table=OrdinaryInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:02:43
+
+MsSql.DyLeader.SQL: 
+Update OrdinaryInspection set PersonalID=PersonalID,Date=Date,Effect=Effect where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Effect-> aa1
+http://localhost:60872/AjaxMethod/Save.cspx?table=SpecialInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:02:59
+insert SpecialInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=SpecialInspection
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:02:59
+
+MsSql.DyLeader.SQL: 
+Update SpecialInspection set PersonalID=PersonalID,InspectionContent=InspectionContent,Date=Date,Conclusion=Conclusion where id='1'
+PersonalID-> 88
+InspectionContent-> afdsfds
+Date-> 2018/1/1 0:00:00
+Conclusion-> sdfdsf
+http://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:03:39
+insert AnnualAppraisalhttp://localhost:60872/AjaxMethod/Save.cspx?table=AnnualAppraisal
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:03:39
+
+MsSql.DyLeader.SQL: 
+Update AnnualAppraisal set PersonalID=PersonalID,WorkUnit=WorkUnit,Degree=Degree where id='1'
+PersonalID-> 88
+WorkUnit-> AS
+Degree-> AA
+http://localhost:60872/AjaxMethod/Save.cspx?table=DemocraticEvaluation
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:03:49
+insert DemocraticEvaluationhttp://localhost:60872/AjaxMethod/Save.cspx?table=DemocraticEvaluation
+Referer:http://localhost:60872/Personal/Investigate.html
+---------------------------------------
+Record On: 2018-01-02 08:03:49
+
+MsSql.DyLeader.SQL: 
+Update DemocraticEvaluation set PersonalID=PersonalID,content=content,Number=Number,Conclusion=Conclusion,Date=Date where id='1'
+PersonalID-> 88
+content-> ghhgghj
+Number-> 12
+Conclusion-> jhjhjh
+Date-> 2017/12/12 0:00:00
+http://localhost:60872/AjaxMethod/Save.cspx?table=PostsAndStaffInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 11:31:43
+insert PostsAndStaffInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PostsAndStaffInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 11:31:43
+
+MsSql.DyLeader.SQL: 
+Update PostsAndStaffInspection set PersonalID=PersonalID,Date=Date,Content=Content where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Content-> tyu1
+http://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 11:32:00
+insert PatrolInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 11:32:00
+insert PatrolInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 11:32:00
+
+MsSql.DyLeader.SQL: 
+Update PatrolInspection set PersonalID=PersonalID,Date=Date,Content=Content where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Content-> fdhfgh
+http://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 11:32:00
+
+MsSql.DyLeader.SQL: 
+Update PatrolInspection set PersonalID=PersonalID,Date=Date,Content=Content where id='1'
+PersonalID-> 88
+Date-> 2018/1/1 0:00:00
+Content-> fdhfgh
+http://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-02 16:52:15
+insert WorkExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=WorkExperience
+Referer:http://localhost:60872/personal/personal.html?personalId=12
+---------------------------------------
+Record On: 2018-01-02 16:52:15
+
+MsSql.DyLeader.SQL: 
+Update WorkExperience set PersonalID=PersonalID,WorkUnit=WorkUnit,StartDate=StartDate,EndDate=EndDate,Duty=Duty,Degree=Degree,SectionName=SectionName where id='16'
+PersonalID-> 12
+WorkUnit-> aasaaaaaaaaaaaaaaaaa
+StartDate-> 2017/12/4 0:00:00
+EndDate-> 2017/12/12 0:00:00
+Duty-> sasa
+Degree-> as
+SectionName-> 教育局办公室
+http://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 20:46:12
+insert PatrolInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 20:46:12
+insert PatrolInspectionhttp://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 20:46:12
+
+MsSql.DyLeader.SQL: 
+insert into PatrolInspection(PersonalID,Date,Content) 
+PersonalID-> 88
+Date-> 2017/1/1 0:00:00
+Content-> qqq
+http://localhost:60872/AjaxMethod/Save.cspx?table=PatrolInspection
+Referer:http://localhost:60872/Personal/Specialsupervision.html
+---------------------------------------
+Record On: 2018-01-02 20:46:12
+
+MsSql.DyLeader.SQL: 
+insert into PatrolInspection(PersonalID,Date,Content) 
+PersonalID-> 88
+Date-> 2017/1/1 0:00:00
+Content-> qqq
+http://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-02 22:28:41
+insert EduExperiencehttp://localhost:60872/AjaxMethod/Save.cspx?table=EduExperience
+Referer:http://localhost:60872/Personal/TrainLearn.html
+---------------------------------------
+Record On: 2018-01-02 22:28:41
+
+MsSql.DyLeader.SQL: 
+insert into EduExperience(PersonalID,IsFullTime,School,Department,Major,StartDate,EndDate,Status,EduBackground,Degree,IsHighest) 
+PersonalID-> 88
+IsFullTime-> 1
+School-> as
+Department-> as
+Major-> as
+StartDate-> 2018/1/2 0:00:00
+EndDate-> 2018/1/2 0:00:00
+Status-> DBNull.Value
+EduBackground-> asas
+Degree-> as
+IsHighest-> 1

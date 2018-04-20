@@ -1,0 +1,19 @@
+http://localhost:60872/AjaxMethod/Save.cspx?table=personal
+Referer:http://localhost:60872/personal.html
+---------------------------------------
+Record On: 2017-12-15 07:33:51
+insert personalhttp://localhost:60872/AjaxMethod/Save.cspx?table=personal
+Referer:http://localhost:60872/personal.html
+---------------------------------------
+Record On: 2017-12-15 07:33:51
+
+MsSql.DyLeader.SQL: 
+Update Personal set Fullname=Fullname,IdCard=IdCard,Gender=Gender,Birthday=Birthday,Ethnicity=Ethnicity,NativeOrigin=NativeOrigin,NativePlace=NativePlace,WorkDate=WorkDate where id='22,,'
+Fullname-> 李四
+IdCard-> 12345678912
+Gender-> 0
+Birthday-> 1967/2/12 0:00:00
+Ethnicity-> 汉族
+NativeOrigin-> 浙江省
+NativePlace-> 浙江省东阳市
+WorkDate-> 1992/8/1 0:00:00
